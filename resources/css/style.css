@@ -29,6 +29,10 @@ a {
   color: gray;
 }
 
+.bottom img {
+  padding-top: 25px;
+}
+
 .logo {
   font-size: 22px;
   text-align: right;
